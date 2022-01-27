@@ -44,6 +44,13 @@
  1.HTML- This is the technology that makes the buiding block of the website.
  2.CSS - This is the technology that breaths life in into the design it is responsible for the high end graphics displayed. 
  
+ ### Possible Bugs
+ 
+ 1.Slow loading
+ 2.Screen glitching
+ 
+ Solution for the above would be to reduce the resolution of the display to standard mode.
+ 
  ## Licence
  
  MIT License
@@ -73,6 +80,6 @@ SOFTWARE.
  ## Authors Info
  Email.address - [Gabrie Ndolo]gabrielndolo2@gmail.com.
  
- Linked -[Gabriel Ndolo]
+ Linked -[Gabriel Ndolo]geb54g.github.io/burgerplace/
  
 
